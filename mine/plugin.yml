@@ -1,0 +1,4 @@
+name: ExamplePlugin
+main: mine.Main
+version: 1.0
+author: KingLinux01
